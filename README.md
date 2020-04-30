@@ -17,11 +17,13 @@
 
 结果比较：
 
-| 模型 | ACC  |
-| :--: | :--: |
-| ESIM |      |
+|    模型    |   ACC   |
+| :--------: | :-----: |
+|    ESIM    |    %    |
+| SiameseGRU | 81.288% |
 
 ## 三、参考
 
 - [(ESIM)](https://arxiv.org/abs/1609.06038) Enhanced LSTM for Natural Language Inference
+- [(SiameseGRU)](https://aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12195/12023) Siamese Recurrent Architectures for Learning Sentence Similarity
 
