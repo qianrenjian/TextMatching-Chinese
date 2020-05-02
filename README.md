@@ -21,9 +21,11 @@
 | :--------: | :-----: |
 |    ESIM    | 80.752% |
 | SiameseGRU | 81.288% |
+|  ABCNN-1   | 79.656% |
 
 ## 三、参考
 
 - [(ESIM)](https://arxiv.org/abs/1609.06038) Enhanced LSTM for Natural Language Inference
 - [(SiameseGRU)](https://aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12195/12023) Siamese Recurrent Architectures for Learning Sentence Similarity
 
+- [(ABCNN)](http://arxiv.org/abs/1512.05193) ABCNN: Attention-Based Convolutional Neural Network for Modeling Sentence Pairs
