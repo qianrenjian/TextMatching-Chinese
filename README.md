@@ -22,6 +22,8 @@
 |    ESIM    | 80.752% |
 | SiameseGRU | 81.288% |
 |  ABCNN-1   | 79.656% |
+|  ABCNN-2   |         |
+|  ABCNN-3   |         |
 
 ## 三、参考
 
